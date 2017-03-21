@@ -1,0 +1,4 @@
+telepot==10.04
+objectjson
+requests
+simplejson
