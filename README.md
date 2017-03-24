@@ -39,9 +39,7 @@ $ sudo pip install -r requirements.txt
 Cloning the repository:
 
 ```bash
-# Cloning the repository and giving the permissions to start the initiation script
-
-$ git clone https://github.com/VycktorStark/DbRobot-Py.git && sudo chmod 777 run.sh && ./run.sh
+$ git clone https://github.com/VycktorStark/DbRobot-Python.git
 
 ```
 
@@ -59,9 +57,9 @@ $ git clone https://github.com/VycktorStark/DbRobot-Py.git && sudo chmod 777 run
 
 ## Initialization process
 
-To start the bot, execute `cd DbRobot-Py/ && sudo chmod 777 run.sh && ./run.sh`. To stop the bot, press `Ctrl + c` twice.
+To start the bot, execute `cd DbRobot-Python/ && sudo chmod 777 run.sh && ./run.sh`. To stop the bot, press `Ctrl + c` twice.
 
-You can also start the bot with `cd DbRobot-Py/ && pyhton3 main.py`, but then it will not restart automatically.
+You can also start the bot with `cd DbRobot-Python/ && pyhton3 main.py`, but then it will not restart automatically.
 
 * * *
 
