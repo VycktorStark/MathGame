@@ -48,7 +48,7 @@ $ git clone https://github.com/VycktorStark/DbRobot-Python.git
 
 > • Make sure privacy is off (more information on the [Bots official FAQ page](https://core.telegram.org/bots/faq#what-messages-will-my-bot-get)). Send `/setprivacy` for [BotFather](http://telegram.me/BotFather) To check the current setting.
 
-**Before doing anything, open the DataConfig folder, and then open the Config-All folder and a text editor and make the following changes to the config.lua file:**
+**Before doing anything, open the utils folder, and a text editor and make the following changes to the config.py file:**
 
 > • Set your Telegram ID to admin (in the `sudo` field).
 >
