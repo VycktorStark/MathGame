@@ -4,7 +4,7 @@
                 |  _ \ ___ | |__   ___      |  _ \| |__  
                 | |_) / _ \| '_ \ / _ \     | | | | '_ \
                 |  _ < (_) | |_) | (_) |    | |_| | |_) |  By: Vycktor Stark
-                |_| \_\___/|_.__/ \___/     |____/|_.__/   Version: 3.0
+                |_| \_\___/|_.__/ \___/     |____/|_.__/   Version: 3.0 Telegram-BOT
 
                 
 * * *
@@ -15,25 +15,18 @@ These instructions provided you with information about this project to be used f
 
 ## What is it?
 
-Robot Db version 3.0 is a bot that uses the "Telegram-Bot-API" API written in Python, its structure was made from the Telepot library, and its plugins are made from the functions of this library.
-
-This makes it easier to manage the bot and its plugins, allowing you to create new functions based on library functions and makes the code much more organized.
+Robot Db version 3.0 is a project for Telegram, a BOT written in Python, its structure was made from the Telepot library which is based on the "Telegram-BOT-API", and all plugins in this base are made from the functions of this library, this makes it easier to manage the bot and its plugins and make the code much more organized.
 
 * * *
 
 ## Configuring bot
 
-You should have your machine updated, having Python (3.5 +) and pip (8.1+) installed, plus some libs: telepot, objectjson, requests, simplejson.
-
-What you need to do to install and use the project:
+You should have your machine updated, having Python (3.5 +) and pip (8.1+) installed, plus some libs: telepot, objectjson, requests, simplejson, and if you do not have it, you need to install it this way:
 
 ```
 # Tested on Ubuntu 14.04, 15.04 and 16.04, Debian 7, Linux Mint 17.2
 
-$ sudo apt-get update
-$ sudo apt-get upgrade
-## To install the libraries, just run run.sh and select option 5 or execute: 
-$ sudo pip install -r requirements.txt
+$ sudo apt-get update && sudo apt-get upgrade && sudo apt-get install python3 python3-pip && sudo pip install -r requirements.txt
 ```
 
 Cloning the repository:
