@@ -1,0 +1,12 @@
+{
+  "name": "DBGameGO",
+  "description": "Project developed for the telegram, using lib Telepot from TELEGRAM-BOT-API",
+  "repository": "https://github.com/vycktorstark/DBGameGO",
+  "image": "heroku/python",
+  "env": {
+    "TOKEN": {
+      "description": "Your bot token",
+      "value": ""
+    },
+  }
+}
