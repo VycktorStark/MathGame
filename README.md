@@ -23,7 +23,8 @@ With the repository installed, you should observe your bot's settings via [BotFa
 To add your token to the project, I advise you to configure your ".bashrc", putting something like:```
 export TOKEN="12918981:dFwnfweFw2oju28ru239r8389iEJOIJO"
 ```
-Ou apenas configure o `tools.py`
+
+Or just configure the `tools.py`
 
 ## Boot process
 
