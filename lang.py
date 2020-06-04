@@ -1,6 +1,6 @@
 __autor__ = "@VycktorStark"
 __sourceoriginalcode__ = 'https://github.com/nickoala/telepot/blob/master/examples/callback/quiz.py'
-__sourcecode__ = "https://github.com/VycktorStark/DBGameGO"
+__sourcecode__ = "https://github.com/VycktorStark/MathGame"
 __starting__ = "START BOT"
 LANG = dict()
 LANG["en"] = {
