@@ -16,9 +16,7 @@ With everything installed, we will clone the repository like this:
 $ git clone https://github.com/VycktorStark/MathGame.git
 ```
 
-With the repository installed, you should observe your bot's settings via [BotFather](http://telegram.me/BotFather), if you don't have one you need to create (more information on the [Bots official FAQ page](https://core.telegram.org/bots/faq#what-messages-will-my-bot-get))
-
-> Make sure privacy is turned off. Send `/setprivacy` to [BotFather](http://telegram.me/BotFather), to check the current configuration.
+With the repository installed, you must have the bot token created by [BotFather] (http://telegram.me/BotFather); if you don't have one, you'll need to create one (more information on [official robot FAQ page]) (https://core.telegram.org/bots/faq#what-messages-will-my-bot-get ))
 
 To add your token to the project, I advise you to configure your ".bashrc", putting something like:
 ```
