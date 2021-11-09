@@ -1,4 +1,4 @@
 telepot==10.04
-objectjson
+objectjson #not matching version error
 requests
 simplejson

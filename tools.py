@@ -1,5 +1,5 @@
 import telepot, lang, random, os
-LN, TLP, API = lang, telepot, telepot.Bot(os.environ['TOKEN'])
+LN, TLP, API = lang, telepot, telepot.Bot(os.environ['TOKEN', '2140684216:AAHf1lmhlR2q3nxYmUxUQtZIzfkaxFOGvnQ'])
 def KeyboardJogo(InlineKeyboardMarkup, InlineKeyboardButton, buttonviewcodeorg, buttongamestarting, buttonviewcode):
     return InlineKeyboardMarkup(inline_keyboard=[[InlineKeyboardButton(text=buttonviewcode, url=lang.__sourcecode__),
                                                   InlineKeyboardButton(text=buttongamestarting, callback_data='Jogar')
